@@ -176,8 +176,7 @@ The application can then be accessed through the configured SageMaker notebook a
 
 ## Project Links
 
-- **GitHub Repository:** [Market-analisis](https://github.com/naufalubaidillahizzat78-bit/Market-analisis)
-- **Live Demo:** [Amazon Market Recommendation System](https://market-amazon.streamlit.app/)
+- **Live Demo:** [Amazon Market Recommendation System](https://amazonrec.streamlit.app/)
 
 ---
 
